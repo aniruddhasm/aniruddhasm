@@ -1,4 +1,4 @@
-[![CodeBuddy - Your pocket guide to cheat codes, shortcuts and hacks](http://codebuddy.in/feature-graphic1.jpg)](http://codebuddy.in)
+Hello Devs,
 
 * Welcome to my github page, feel free to check out my 🌐 [website](https://codebuddy.in) and :iphone: [mobile app](https://play.google.com/store/apps/details?id=aniruddha.chetan.codes&hl=en_IN)
 
