@@ -19,10 +19,10 @@ const me = {
 ```
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/cs_vedant">
+<a href="https://twitter.com/aniruddha_sm">
   <img align="left" alt="Aniruddha Mahamuni Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vedant-jajoo-89a366171/">
+<a href="https://www.linkedin.com/in/aniruddhamahamuni/">
   <img align="left" alt="Aniruddha Mahamuni Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
