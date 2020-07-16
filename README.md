@@ -2,7 +2,7 @@ Hello Devs,
 
 Welcome to my github page, feel free to check out my 🌐 [website](https://codebuddy.in) and :iphone: [mobile app](https://play.google.com/store/apps/details?id=aniruddha.chetan.codes&hl=en_IN)
 
-My details - 
+About me - 
 
 ```javascript
 const me = {
