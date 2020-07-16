@@ -12,7 +12,7 @@ const me = {
 	technology:	{
 		programming: [ "JavaScript","Node.js","Angular 2+","PHP" ],
 		databases: [ "MySQL", "MongoDB", "PostgreSQL", "SQLite" ],
-		amazonWebServices: [ "Congnito", "API Gateway", "Lambda", "EC2", "SQS", "RDS", "SES", "Elastic Beanstalk" ],
+		amazonWebServices: [ "Congnito", "API Gateway", "Lambda", "EC2", "RDS", "Elastic Beanstalk" ],
 		mobileTech: [ "Android", "React native", "Ionic 1", "Appcelerator Titanium" ]
 	}
 }
