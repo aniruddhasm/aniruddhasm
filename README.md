@@ -2,14 +2,14 @@ Hello Devs,
 
 Welcome to my github page, feel free to check out my 🌐 [website](https://codebuddy.in) and :iphone: [mobile app](https://play.google.com/store/apps/details?id=aniruddha.chetan.codes&hl=en_IN)
 
-Details about me - 
+My details - 
 
 ```javascript
 const me = {
 	name: "Aniruddha Mahamuni",
 	email: "aniruddham27@gmail.com",
 	work: "Full Stack Developer",
-	technology:	{
+	technology: {
 		programming: [ "JavaScript","Node.js","Angular 2+","PHP" ],
 		databases: [ "MySQL", "MongoDB", "PostgreSQL", "SQLite" ],
 		amazonWebServices: [ "Congnito", "API Gateway", "Lambda", "EC2", "RDS", "Elastic Beanstalk" ],
