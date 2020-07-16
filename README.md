@@ -25,6 +25,10 @@ const me = {
 <a href="https://www.linkedin.com/in/aniruddhamahamuni/">
   <img align="left" alt="Aniruddha Mahamuni Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
+<a href="mailto:aniruddham27@gmail.com">
+  <img align="left" alt="Aniruddha Mahamuni Email" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
+</a>
+
 
 <!--
 **aniruddhasm/aniruddhasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
