@@ -6,14 +6,14 @@ About me -
 
 ```javascript
 const me = {
-	name: "Aniruddha Mahamuni",
-	email: "aniruddham27@gmail.com",
-	work: "Full Stack Developer",
-	technology: {
-		programming: [ "JavaScript", "Node.js", "Angular 2+", "PHP" ],
-		databases: [ "MySQL", "MongoDB", "PostgreSQL", "SQLite" ],
-		amazonWebServices: [ "Congnito", "API Gateway", "Lambda", "EC2", "RDS", "Elastic Beanstalk" ],
-		mobileTech: [ "Android", "React native", "Ionic 1", "Appcelerator Titanium" ]
+	"name": "Aniruddha Mahamuni",
+	"email": "aniruddham27@gmail.com",
+	"work": "Developer",
+	"technology": {
+		"frontEnd": ["JavaScript", "Angular 2+", "Reactjs" ],
+		"backEnd": [ "Node.js", "Python", "PHP" ],
+		"databases": [ "MySQL", "MongoDB", "PostgreSQL", "SQLite" ],
+		"mobileTechnology": [ "Android", "React native" ]
 	}
 }
 ```
