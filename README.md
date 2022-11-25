@@ -8,11 +8,11 @@ About me -
 const me = {
 	"name": "Aniruddha Mahamuni",
 	"email": "aniruddham27@gmail.com",
-	"work": "Developer",
+	"work": "Full Stack Developer",
 	"technology": {
 		"frontEnd": ["JavaScript", "Angular 2+", "Reactjs" ],
 		"backEnd": [ "Node.js", "Python", "PHP" ],
-		"databases": [ "MySQL", "MongoDB", "PostgreSQL", "SQLite" ],
+		"databases": [ "PostgreSQL", "MySQL", "MongoDB", "SQLite" ],
 		"mobileTechnology": [ "Android", "React native" ]
 	}
 }
