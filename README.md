@@ -21,12 +21,8 @@ const me = {
 <br/><br/>
 ### My Github Stats
 
-<p>  
-    <img height="175em" alt="Aniruddha Mahamuni's streak" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aniruddhasm&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true" align = "center"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="175em" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=aniruddhasm&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" align = "center"/>
+<img height="175em" alt="Aniruddha Mahamuni's streak" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aniruddhasm&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true" align="center"/>
     <br/><br/>
-</p>
 <img height="180em" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aniruddhasm&theme=material-palenight&hide=Jupyter&layout=compact"/>
 
 
