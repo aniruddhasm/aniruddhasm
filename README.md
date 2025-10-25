@@ -1,20 +1,30 @@
-Hello Devs,
+# Hello Developers! 👋
 
-Welcome to my github page, feel free to check out my 🌐 [website](https://codebuddy.in) and :iphone: [mobile app](https://play.google.com/store/apps/details?id=aniruddha.chetan.codes&hl=en_IN)
+Welcome to my GitHub page!  
 
-About me - 
+Feel free to explore my projects and apps:  
+
+- 🌐 **Website:** [CodeBuddy](https://codebuddy.in)  
+- :iphone: **Mobile Apps:**
+  - [CodeBuddy](https://play.google.com/store/apps/details?id=aniruddha.chetan.codes&hl=en_IN)
+  - [Habitus](https://play.google.com/store/apps/details?id=com.codebuddy.habittracker&hl=en_IN)
+
+
+---
+
+## About Me
 
 ```javascript
 const me = {
-	"name": "Aniruddha Mahamuni",
-	"email": "aniruddham27@gmail.com",
-	"work": "Full Stack Developer",
-	"technology": {
-		"frontEnd": ["JavaScript", "Angular 2+", "Reactjs" ],
-		"backEnd": [ "Node.js", "Python", "PHP" ],
-		"databases": [ "PostgreSQL", "MySQL", "MongoDB", "SQLite" ],
-		"mobileTechnology": [ "Android", "React native" ]
-	}
+  "name": "Aniruddha Mahamuni",
+  "email": "aniruddham27@gmail.com",
+  "technologyStack": {
+    "frontend": ["JavaScript", "Angular 2+", "React"],
+    "backend": ["Node.js", "Python", "PHP"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+    "mobile": ["Android"]
+  },
+  "interests": ["Scalable Architecture", "Clean Code", "Performance Optimization", "User-Centric Design"]
 }
 ```
 
